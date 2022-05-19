@@ -1,0 +1,22 @@
+.container{
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+.sweden{
+	max-width: 300px;
+	max-height: auto;
+	float:left;
+}
+#LeftSidebar{
+	width: 50%;
+	display: block;
+	font-size:26px;
+	float: left;
+}
+#RightSidebar{
+	width: 50%;
+	display: block;
+	font-size:26px;
+	float: right;
+}
